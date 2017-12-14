@@ -11,3 +11,13 @@ Git automatically stay up-to-date with your remote repository?
 I might want to pull changes manually because when I am working with other developers
 they may push some commits that doesn't make sense for me now because 
 the whole feature may be not ready yet
+
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+- You should use Clone, when you have repo in your GitHub account and want to work with it on you computer
+- You should use Fork, when you want work with repo which have been created by another developer so you Fork it,
+ in other words clone it to your account on GitHub.
+- You should use branch when you want to try new feature in your project or when you work with other people,
+ that have access to your project
