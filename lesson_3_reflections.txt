@@ -21,3 +21,25 @@ Describe the differences between forks, clones, and branches. When would you use
  in other words clone it to your account on GitHub.
 - You should use branch when you want to try new feature in your project or when you work with other people,
  that have access to your project
+ 
+ 
+ 
+ What is the benefit of having a copy of the last known state of the remote stored locally?
+ 
+ It helps to see last synchronization with remote repository and whether you need 
+ to do git push to stay up-to-date
+ 
+ 
+ How would you collaborate without using Git or GitHub? What would be easier, 
+ and what would be harder?
+ 
+ It would be a nightmare without git and GitHub. 
+ One thing would be easier without Git/GitHub you don't need to commit every change
+ 
+ 
+ 
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+
+I would want to make changes in a separete branch when I am working with other people 
+or when I want to try new features but doing all the work in the master branch requires less actions
